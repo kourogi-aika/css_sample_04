@@ -1,0 +1,33 @@
+body {
+    background-image : url("images/DSC_1070.JPG");
+    background-size: 50%;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: silver;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+}
